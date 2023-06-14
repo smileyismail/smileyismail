@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="http://drive.google.com/uc?export=view&id=1fV4qE8nfuzIwdNqJh95H522I7lDSpr0g">
+<img align="center" alt="Coding" width="100%" src="http://drive.google.com/uc?export=view&id=1fV4qE8nfuzIwdNqJh95H522I7lDSpr0g">
 <h1 align="center">Hello World👋 Syed Ismailuddin</h1>
 <h3 align="center">Full-Stack Developer | Mobile App Developer | MERN | React Native</h3>
 <img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1fV4qE8nfuzIwdNqJh95H522I7lDSpr0g">
