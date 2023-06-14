@@ -1,11 +1,7 @@
-[![MasterHead]https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://rishavchanda.io)
 <h1 align="center">Hello World👋 Syed Ismailuddin</h1>
 <h3 align="center">Full-Stack Developer | Mobile App Developer | MERN | React Native</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smileyismail&label=Profile%20views&color=0e75b6&style=flat" alt="smileyismail" /> </p>
-
-<p align="left"> <a href="https://twitter.com/codewithsmiley" target="blank"><img src="https://img.shields.io/twitter/follow/codewithsmiley?logo=twitter&style=for-the-badge" alt="codewithsmiley" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development.**
 
@@ -15,16 +11,14 @@
 
 - 📫 How to reach me **smileyismail67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1izdoCHQvBlPsHMmAuzeOT562Y5lYYDPm/view?usp=sharing](https://drive.google.com/file/d/1izdoCHQvBlPsHMmAuzeOT562Y5lYYDPm/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/vEN02](https://shorturl.at/vEN02)
 
-- ⚡ Fun fact **It's not a bug; It's a new unexpected feature.**
+- ⚡ Fun fact **I don't write bugs; I write unexpected features.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codewithsmiley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithsmiley" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smileyismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smileyismail" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithsmiley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsmiley" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with smiley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with smiley" height="30" width="40" /></a>
+<a href="https://hashnode.com/@codewithsmiley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codewithsmiley" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
