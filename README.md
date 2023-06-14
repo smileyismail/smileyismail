@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/vEN02](https://shorturl.at/vEN02)
 
-- ⚡ Fun fact **I don't write bugs; I write unexpected features.**
+- ⚡ Fun fact **I don't code bugs; I create unexpected features.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
