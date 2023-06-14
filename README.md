@@ -1,4 +1,4 @@
-[![MasterHead](https://shorturl.at/jkrA6)](https://rishavchanda.io)
+[![MasterHead](http://drive.google.com/uc?export=view&id=1PPHjQQqjMVlBTk19wCqiCGE3M0MVrQCH)](https://rishavchanda.io)
 <h1 align="center">Hello World👋 Syed Ismailuddin</h1>
 <h3 align="center">Full-Stack Developer | Mobile App Developer | MERN | React Native</h3>
 
