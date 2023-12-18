@@ -1,19 +1,19 @@
 <img align="center" alt="Coding" width="100%" src="http://drive.google.com/uc?export=view&id=1nwHLdIr6kTGhARyWq22YtfONL2aPd_cC">
 <h2 align="center">Hello World👋 My name is,</h2>
 <h1 align="center">Syed Ismailuddin</h1>
-<h3 align="center">Full-Stack Developer | Mobile App Developer | MERN | React Native</h3>
+<h3 align="center">MERN-Stack Developer | Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1lrrBuU6nBDM1F4M6tOeEd2KyFVoS9pSF">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smileyismail&label=Profile%20views&color=0e75b6&style=flat" alt="smileyismail" /> </p>
 
-- 🌱 I’m currently learning **Backend Development.**
+- 🌱 I’m currently learning **Mobile App Development.**
 
-- 👨‍💻 All of my projects are available at [https://smiley-ismail.netlify.app/](https://smiley-ismail.netlify.app/)
+- 👨‍💻 Checkout my Portfolio website at [https://smiley-ismail.netlify.app/](https://smiley-ismail.netlify.app/)
 
-- 💬 Ask me about **MERN, React Native.**
+- 💬 Ask me about **MERN Stack, Web Development.**
 
-- 📫 How to reach me **smileyismail67@gmail.com**
+- 📫 How to reach me **smileyismail69@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/vEN02](https://shorturl.at/vEN02)
 
